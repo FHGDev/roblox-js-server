@@ -2,5 +2,5 @@
   "username": "process.env.username",
   "password":"process.env.pw",
   "key": "process.env.key",
-  "maximumRank": 255
+  "maximumRank": 230
 }
